@@ -1,0 +1,6 @@
+compressing_start(ms): 0
+Generated_BU_init_patterns(ms): 180200
+patterns_generated(ms): 793260
+Compression_process(ms): 947260
+Packing_blocks(ms): 947260
+BU_Compression_all_timecost(ms): 1000710
